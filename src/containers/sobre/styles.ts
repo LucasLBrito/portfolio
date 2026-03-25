@@ -9,7 +9,7 @@ export const GithubSection = styled.div`
   gap: 24px;
 
   img {
-    height: auto;
+    height: 180px;
     max-width: 100%;
   }
 
